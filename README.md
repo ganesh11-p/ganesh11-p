@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ganesh11-p
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning python language 
-- 💞️ I’m looking to collaborate on a developer role .
+- 💞️ I’m looking to collaborate on a front end developer role .
 - 📫 How to reach me ganeshp.5526@gmail.com
 
 <!---
